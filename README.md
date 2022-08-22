@@ -1,6 +1,15 @@
 # Markdown-quick-demo
 My markdown demo
 
+A list of animals
+* Cat
+* Dog
+* Snake
+* Birds
+*   Robin
+*   Eagle
+* Elephant
+
 This is a example of a function with variables "x" and "y" .
 ...
 def mult (x,y):
