@@ -6,9 +6,16 @@ A list of animals
 * Dog
 * Snake
 * Birds
-*   Robin
-*   Eagle
+  * Robin
+  * Eagle
 * Elephant
+
+My favourite cities
+1. Boston
+2. New york
+4. Paris
+3. Delhi
+
 
 This is a example of a function with variables "x" and "y" .
 ...
