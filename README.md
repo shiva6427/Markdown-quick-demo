@@ -2,5 +2,10 @@
 My markdown demo
 
 ### Styles
-we have styles of **bold and _italics_.
+we have styles of **bold** and _italics_.
 we also have ***bold italics***.
+
+##smallest Header
+Some Text. Some more text
+Even more Text
+A line we want to break up
