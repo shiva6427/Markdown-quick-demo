@@ -5,7 +5,7 @@ This is a quote:
 > See spot
 > See spot run
 > Run spot run
->>> Success
+>>>>>>>>>>> Success
 
 ### Styles
 we have styles of **bold** and _italics_.
