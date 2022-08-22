@@ -1,6 +1,14 @@
 # Markdown-quick-demo
 My markdown demo
 
+This is a example of a function with variables "x" and "y" .
+...
+def mult(x,y)
+  print(x,y)
+  return(x,y)
+...
+
+
 This is a quote:
 > See spot
 > See spot run
